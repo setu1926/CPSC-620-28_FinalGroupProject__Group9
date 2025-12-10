@@ -1,2 +1,13 @@
-# CPSC-620-28_FinalGroupProject__Group9
-Toronto Bike-Sharing Analytics Tool built using Agile, TDD, Refactoring &amp; Streamlit Dashboard.
+# Toronto Bike-Sharing Analytics Tool
+
+This project is developed as part of **CPSC-620 Final Group Project**.  
+It follows Agile methodology in two sprints with TDD, refactoring and dashboard implementation.
+
+---
+
+## ⚙️ Setup Instructions
+
+```bash
+git clone <repo_link>
+cd <repo_folder>
+pip install -r requirements.txt
