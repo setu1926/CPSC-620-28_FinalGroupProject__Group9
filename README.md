@@ -3,7 +3,7 @@
 This project is developed as part of **CPSC-620 Final Group Project**.  
 It follows Agile methodology in two sprints with TDD, refactoring and dashboard implementation.
 
----
+Sprint 1 status: Basic data pipeline, analytics, and dashboard implemented.
 
 ## ⚙️ Setup Instructions
 
